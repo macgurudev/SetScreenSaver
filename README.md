@@ -8,9 +8,9 @@ The script will modify the User Template along with any current user, overriding
 What settings can be set?
 
 The following settings are controlled by this script:
-	•	Screensaver module to use
-	•	When the screensaver should be activated
-	•	Enable or Disable Screenlock ( require password )
+		•	Screensaver module to use
+		•	When the screensaver should be activated
+		•	Enable or Disable Screenlock ( require password )
 
 Special Thanks:
 
